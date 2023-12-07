@@ -9,8 +9,7 @@ categories: []
 tags: []
 type: regulars
 draft: false
----
-This is custom text!
+---This is custom text!
 
 {{< image src="images/post/post-3.jpg" caption="Image using shortcode" alt="alter-text" height="500" width="900" position="center" command="fill" option="q10 r90" class="img-fluid" title="Image Title" webp="true" >}}
 FAQs
