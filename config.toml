@@ -1,3 +1,3 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://muklescms.com"
+languageCode = "en-us"
+title = "Testing Title from CMS"
