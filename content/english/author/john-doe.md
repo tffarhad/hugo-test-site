@@ -1,5 +1,5 @@
 ---
-title: Farhad
+title: Farhad Hossen
 image: images/author.jpg
 email: johndoe@logbook.com
 social:
