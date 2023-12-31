@@ -1,9 +1,9 @@
 {
-  "environment": "hugo",
   "media": {
     "root": "assets",
     "public": "assets"
   },
+  "environment": "hugo",
   "content": {
     "root": "content"
   },
