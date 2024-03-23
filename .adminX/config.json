@@ -3,12 +3,25 @@
     "root": "assets",
     "public": "assets"
   },
-  "environment": "hugo",
   "content": {
     "root": "content"
   },
   "themeConfig": [
     "config/_default",
     "config.toml"
-  ]
+  ],
+  "arrangement": {
+    "content/english/author": {
+      "weight": 2
+    },
+    "content/english/post": {
+      "weight": 1
+    },
+    "content/english/homepage": {
+      "weight": 0
+    },
+    "content/english/shop": {
+      "weight": 3
+    }
+  }
 }
